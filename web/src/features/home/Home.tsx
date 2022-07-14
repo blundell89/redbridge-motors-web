@@ -12,7 +12,6 @@ export default () => (
     <h1>Welcome</h1>
     <div className="row">
       <div className="col-md-9">
-        <p className="lead">Hi, thank you for visiting our website</p>
         <p>We specialise in the procurement of vans and cars of all makes &amp; ilks, be it low budget or high budget, sports or prestige etc.</p>
         <p>Redbridge Motor Company is one of the longest established motor businesses in the Peterborough/Cambridgeshire area. The business is run by husband-wife team, Rod &amp; Elaine Blundell.</p>
         <h2>We Procure/Stock</h2>
