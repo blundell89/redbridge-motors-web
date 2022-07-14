@@ -1,4 +1,4 @@
-import DocmentTextImg from 'bootstrap-icons/icons/document-text.svg';
+import DocmentTextImg from 'bootstrap-icons/icons/file-text.svg';
 import EnvelopeImg from 'bootstrap-icons/icons/envelope.svg';
 import PhoneImg from 'bootstrap-icons/icons/phone.svg';
 import React, { useState } from 'react';
